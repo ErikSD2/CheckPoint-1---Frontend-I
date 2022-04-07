@@ -1,0 +1,37 @@
+/* <!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8" />
+<title>Check Point 1 - Frontend I</title>
+
+/* Segue a lista de todos os conteúdos de terceiros que foram utilizados */
+
+<style>
+.Brasão da Cidade{
+ -   https://pt.wikipedia.org/wiki/Ficheiro:Bras%C3%A3o_de_Osasco.svg#/media/Ficheiro:Bras%C3%A3o_de_Osasco.svg
+}
+
+.Imagens{
+ -   https://cultura.osasco.br/
+ -   https://pt.wikipedia.org/wiki/Teatro_Gl%C3%B3ria_Giglio
+}
+
+.Menu Hamburguer{
+ -   Utilizando o mesmo .svg da mesa de trabalho: Front Cat&Dog;
+}
+
+.Fontes{
+ -   https://fonts.google.com/specimen/Poppins#standard-styles
+
+}
+
+.Sobre a Cidade{
+ -   https://pt.wikipedia.org/wiki/Teatro_Gl%C3%B3ria_Giglio
+ -   http://osasco.gudi.com.br/2019/10/24/ponte-metalica-de-osasco/
+ -   https://www.osasco.sp.leg.br/institucional/osasco-cidade/historia/historia-oral/mercadao-onde-ainda-se-compra-ate-fumo-de-corda#:~:text=O%20Mercado%20Municipal%20de%20Osasco,produtos%20ofere%2Dcida%20pelo%20Mercado.
+ -   https://pt.wikipedia.org/wiki/Mercado_Municipal_de_Osasco
+}
+</style>
+</head>
+<body></body>
+</html> */

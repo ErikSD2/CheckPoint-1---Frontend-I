@@ -1,0 +1,10 @@
+:root {
+    --corFundo        : #fff;
+    --corFundoAlt     : #f1f1f1;
+    --corTexto        : #252525;
+    --corTextoAlt     : #404040;
+    --corDestaque     : #2f7238;
+    --corDestaqueTexto: #fff;
+    --heroGradienteA  : hsla(0deg, 0%, 0%, 1);
+    --heroGradienteB  : hsla(0deg, 0%, 0%, 0.2);
+}

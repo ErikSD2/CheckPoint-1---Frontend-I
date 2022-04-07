@@ -1,0 +1,61 @@
+* {
+    margin     : 0;
+    padding    : 0;
+    box-sizing : border-box;
+    font-family: "Poppins", "Fira Sans", sans-serif;
+    list-style : none;
+}
+
+header {
+    padding: 10px 20px;
+}
+
+h1 {
+    font-size: 1.2rem;
+}
+
+h2 {
+    font-size: 1.15rem;
+}
+
+h3 {
+    font-size: 1.08rem;
+    padding  : 10px 50px;
+}
+
+p {
+    line-height   : 2;
+    letter-spacing: 0.1em;
+    font-weight   : 500;
+    font-style    : normal;
+}
+
+:not(.legenda)>p {
+    padding: 30px 50px;
+}
+
+main {
+    background-color: var(--corFundo);
+}
+
+footer div {
+    display        : flex;
+    justify-content: center;
+    flex-direction : column;
+    padding-bottom : 20px;
+    color          : var(--corDestaqueTexto);
+}
+
+a {
+    text-decoration: none;
+}
+
+nav a {
+    color: var(--corDestaqueTexto);
+}
+
+footer div img {
+    max-width: 40px;
+    margin   : 6px;
+    filter   : invert(1);
+}
